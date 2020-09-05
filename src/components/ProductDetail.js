@@ -67,7 +67,7 @@ function ProductDetail() {
         <div className="productNotFount"><h1>Product Not Found</h1></div>
         )
     }
-    const { name, img, price } = shoe
+    const { name, img,  } = shoe
     return (
         <>
             <Link to="/">Back</Link>
