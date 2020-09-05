@@ -19,8 +19,8 @@ function Footer() {
     const classes = useStyles()
     return (
         <Box className={classes.root}>
-            <Typography className={classes.footer} variant="h6">
-                Made with  Amir Maavia
+            <Typography className={classes.footer} variant="p">
+                Copy Right.......... develop by Amir Maavia
             </Typography>            
         </Box>
     )
