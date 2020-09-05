@@ -26,7 +26,7 @@ const useStyles = makeStyles(theme => ({
         textDecoration: "none",
         fontSize: "1.1rem",
         fontWeight: "bold",
-        color: "white",
+        // color: "white",
         paddingRight: "1rem",
         cursor: "pointer",
         "&:hover": {
