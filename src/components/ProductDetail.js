@@ -76,10 +76,10 @@ function ProductDetail() {
                     <Typography className={classes.title} variant="h4" component="h4">{name}</Typography>
                     <CardMedia className={classes.CardMedia} component="img" alt={name} height="140" image={img} title={name} />
                     
-                    <Typography className={classes.price} variant="h4" component="h4">
+                    <Typography className={} variant="h4" component="h4">
                    <Grid container  >
                    {/* <Grid item xs={12} sm={6} ><h1>{price}</h1></Grid> */}
-                   <Grid item xs={12} sm={12} > <Button   variant="contained" style={{float:"right" , top:"2px"}} color="primary"><a href="https://forms.gle/34WaiLVTMPRh8px3A" target="_blank"><ShoppingCartIcon className={classes.navIcon} /></a></Button></Grid>
+                   <Grid item xs={12} sm={12} > <Button   variant="contained" style={{float:"right" , top:"2px"}} color="primary"><a href="https://forms.gle/34WaiLVTMPRh8px3A" ><ShoppingCartIcon className={classes.navIcon} /></a></Button></Grid>
                     </Grid>
                     </Typography>
                     
