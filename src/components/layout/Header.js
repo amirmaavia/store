@@ -52,9 +52,9 @@ function Header() {
         <Grid container className={classes.root}>
             <AppBar className={classes.nav} position="sticky">
                 <Toolbar>
-                    <Link className={classes.logo} to="/products">                    
+                    <Link className={classes.logo} to="/">                    
                         <Typography className={classes.logo} variant="h5">
-                           <img  alt="logo"/>
+                           <img src="https://scontent.fkhi10-1.fna.fbcdn.net/v/t1.0-9/118624167_106547451183497_7613659949066219436_n.jpg?_nc_cat=107&_nc_sid=09cbfe&_nc_ohc=trEbat3m7vwAX-8R8Gi&_nc_ht=scontent.fkhi10-1.fna&oh=dca8b98750d9edde2b821f391f172b5d&oe=5F794FAC" alt="logo" style={{height:"55px"}} />
                         </Typography>
                     </Link>
                     <Typography>

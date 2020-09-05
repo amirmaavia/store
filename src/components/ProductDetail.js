@@ -1,6 +1,7 @@
 import React from 'react'
 import '../App.css'
 import { useParams } from "react-router-dom"
+import ShoppingCartIcon from '@material-ui/icons/ShoppingCart';
 import data from "../data/data"
 import { Link } from "react-router-dom"
 import { Container, Typography, CardMedia, Card } from "@material-ui/core"
@@ -26,7 +27,7 @@ function ProductDetail() {
             height: "100%",
         },
         title: {
-            color: "red",
+            color: "Blue",
             fontFamily: "'Ubuntu', sans-serif",
             fontWeight: "bold",
             fontSize: "2rem",
@@ -42,6 +43,10 @@ function ProductDetail() {
         },
         Button:{
             float: "right"
+        },
+        a:{
+            textDecoration: "none",
+            background: "Black"
         },
         "@media screen and (min-width: 0px) and (max-width: 600px)": {
             CardMedia: {
@@ -65,7 +70,7 @@ function ProductDetail() {
     const { name, img, price } = shoe
     return (
         <>
-            <Link to="/products">Back</Link>
+            <Link to="/">Back</Link>
             <Container>
                 <Card>
                     <Typography className={classes.title} variant="h4" component="h4">{name}</Typography>
@@ -73,8 +78,8 @@ function ProductDetail() {
                     
                     <Typography className={classes.price} variant="h4" component="h4">
                    <Grid container  >
-                   <Grid item xs={12} sm={6} ><h1>{price}</h1></Grid>
-                   <Grid item xs={12} sm={6} > <Button  variant="contained" style={{float:"right" , top:"2px"}} color="primary">Order</Button></Grid>
+                   {/* <Grid item xs={12} sm={6} ><h1>{price}</h1></Grid> */}
+                   <Grid item xs={12} sm={12} > <Button   variant="contained" style={{float:"right" , top:"2px"}} color="primary"><a href="https://forms.gle/34WaiLVTMPRh8px3A" target="_blank"><ShoppingCartIcon className={classes.navIcon} /></a></Button></Grid>
                     </Grid>
                     </Typography>
                     

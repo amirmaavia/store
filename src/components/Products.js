@@ -24,7 +24,7 @@ const useStyles = makeStyles({
         height: "100%"
     },
     title: {
-        color: "red",
+        color: "Black",
         fontFamily: "'Ubuntu', sans-serif",
         fontWeight: "bold",
         textDecoration: "none",
@@ -70,15 +70,15 @@ function Products() {
                 {Object.entries(data.shoes).map(([slug, { name, img, price }]) => (
                 <Card className={classes.card}>
                         <CardActionArea>
-                             <Link className={classes.title} to={`/products/${slug}`}>
+                             <Link className={classes.title} to={`//${slug}`}>
                                 <CardMedia className={classes.CardMedia} component="img" alt={name} height="140" image={img} title={name} />
                                  <CardContent> 
                                     <Typography className={classes.title} gutterBottom variant="h6" component="h6">
                                         {name}
                                     </Typography>
-                                    <Typography className={classes.price} gutterBottom variant="p" component="p">
+                                    {/* <Typography className={classes.price} gutterBottom variant="p" component="p">
                                         {price}
-                                    </Typography>
+                                    </Typography> */}
                                 </CardContent>
                             </Link>
                         </CardActionArea>
