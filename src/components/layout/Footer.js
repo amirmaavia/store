@@ -20,7 +20,7 @@ function Footer() {
     return (
         <Box className={classes.root}>
             <Typography className={classes.footer} variant="p">
-                Copy Right.......... develop by Amir Maavia
+                Copy Right.......... developed by Amir Maavia
             </Typography>            
         </Box>
     )
