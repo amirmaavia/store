@@ -42,7 +42,7 @@ export default {
         },
         "Motorola Handfree":{
             name: "Motorola handfree",
-            img: "https://static-01.daraz.pk/p/b95da5def4a63cf69ddd693042bae205.jpg",
+            img: "https://lh6.googleusercontent.com/G9atJjMy5rRW_hW-ru-cgxPvRsTfypyCBVVLK_LKPC0Yk-hdrhwgGRqcRQuVKASJeDwcjLf09iDkLOs9G608CO_rEnldNWMtw3FfDqvtBeFZeHB5H78sSQ3xhOMe=w260",
         price: "Rs. 250"
         },
         
