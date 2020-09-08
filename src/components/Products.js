@@ -76,9 +76,9 @@ function Products() {
                                     <Typography className={classes.title} gutterBottom variant="h6" component="h6">
                                         {name}
                                     </Typography>
-                                    {/* <Typography className={classes.price} gutterBottom variant="p" component="p">
+                                    <Typography className={classes.price} gutterBottom variant="p" component="p">
                                         {price}
-                                    </Typography> */}
+                                    </Typography>
                                 </CardContent>
                             </Link>
                         </CardActionArea>
