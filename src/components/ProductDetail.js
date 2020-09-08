@@ -79,7 +79,7 @@ function ProductDetail() {
                     <Typography  variant="h4" component="h4">
                    <Grid container  >
                    <Grid item xs={12} sm={6} ><h1>{price}</h1></Grid>
-                   <Grid item xs={12} sm={12} > <Button   variant="contained" style={{float:"right" , top:"-3px"}} color="primary"><a href="https://forms.gle/JeC19aB25tbgyTKF7" ><ShoppingCartIcon className={classes.navIcon} /></a></Button></Grid>
+                   <Grid item xs={12} sm={6} > <Button   variant="contained" style={{float:"right"}} color="primary"><a href="https://forms.gle/JeC19aB25tbgyTKF7" ><ShoppingCartIcon className={classes.navIcon} /></a></Button></Grid>
                     </Grid>
                     </Typography>
                     
