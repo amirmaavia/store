@@ -42,7 +42,7 @@ export default {
         },
         "Motorola Handfree":{
             name: "Motorola handfree",
-            image: "https://lh6.googleusercontent.com/G9atJjMy5rRW_hW-ru-cgxPvRsTfypyCBVVLK_LKPC0Yk-hdrhwgGRqcRQuVKASJeDwcjLf09iDkLOs9G608CO_rEnldNWMtw3FfDqvtBeFZeHB5H78sSQ3xhOMe=w260",
+            image: "https://lh6.googleusercontent.com/6pi_0YT-uzOCAo-F2Q7l7qFwtoBtz4QG9z5k6TWW3_RnAzMoe1x8GIObnJHbK9SMf9r4cb-KYN6TZwRJHq588gckqmzHY_WfIRjRh0JyJXbHo6LgNeo3wHRq9amtkofDYvvuNjC8bNmKvIg",
         price: "Rs. 250"
         },
         
