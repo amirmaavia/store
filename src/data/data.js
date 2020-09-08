@@ -100,7 +100,7 @@ export default {
         "PowerBank-samsung": {
             name: "PowerBank-samsung 10000mah ",
             img: "https://lh4.googleusercontent.com/ZkfZpHoyEAh8mRJi66PhpccBz9DJuCcrEl4P0VYXLWONYji7AjVurskP_J-z6G9etNJ2QkjyV7p5B7nQId2Cmq_pF7SbbbiqfAr2Qu2Ul5FnzowZ1qDxtwEPhSla=w260",
-            price: "Rs.1400",
+            price: "Rs.1800",
         },
         "PowerBank-ROMOSS": {
             name: "PowerBank-ROMOSS ",
