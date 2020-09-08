@@ -80,7 +80,7 @@ export default {
         "BLUETOOTH SPEAKER ZM-1": {
             name: "BLUETOOTH SPEAKER ZM-1",
             img: "https://lh4.googleusercontent.com/nqZza0pql_7csnFLQGXvlQZiO-6XUyJ2UbwXknbpm3rlf6wRw76oip6DcI_KiQhhVuf_Bcf0xKbWpYIEwP_3RqHCfhKtWi_Da8_s6Nmyl3eEBN_nKGfV9AAR3doE=w260",
-            price: "Rs.",
+            price: "Rs. 1000",
         },
         "SELFIE RING": {
             name: "SELFIE RING",
@@ -95,7 +95,7 @@ export default {
         "PowerBank 6000mah ": {
             name: "PowerBank ",
             img: "https://lh3.googleusercontent.com/CutQNy0LeF88LJHt27BtF074IEym28U_j-2G6cMr8HVxNoTh3aEDLt_u6Wf0sTaugeTPKrE6FDP9aql8fS4rrJYKvX4h5dmolSm6vuT3qjfWYeJWWwsX4cPS0vPDRmhqpFYTfBnZzkOx4dI",
-            price: "Rs. ",
+            price: "Rs. 800 ",
         },
         "PowerBank-samsung": {
             name: "PowerBank-samsung 10000mah ",
