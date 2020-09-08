@@ -18,28 +18,35 @@ export default {
         "EARPHONE":{
             name: "EARPHONE",
             img: "https://lh3.googleusercontent.com/8Vrscxv8qeOfpZCP7B72xf0aHt0KeU0GQ-Hg2EwJXGs7GgbiOYay4df-PR0-K5Kr9Vk6-UXWe5fBkvapjlU25KAtuAndtYf0r_UD5XG3LZo_ttHQ6ZRReBLdF7Da=w260",
-            price: "Rs. "
+            price: "Rs. 150 "
         },
-        "EARPHONE R21": {
-            name: "EARPHONE R21",
-            img: "https://lh4.googleusercontent.com/3xqzNAK5N4BwwxTc-4cVuuQJ6SjXeu3zktF4SMI3dJ_03WFXSjI4IZydpAvWn_h5xShh2Kr0ZFmY3NHXnAJ-JpYjl7h5tDlTGEqAaciyigkdzP1CcvUH081-Jew1=w260",
-            price: "Rs. ",
+        "EARPHONE MODEL A-2":{
+            name: "EARPHONE MODEL A-2",
+            img: "https://lh5.googleusercontent.com/sd8XCkeCHFnL-iLxyyMWIw32QpYadyWRRS9GKZd6cGe7XfvB7MKEyVbmAdskS7PYhFb_2AQcypMIutGl8ZE33I3cQhDCZz3UUHuTR1pNppu_-upriuKYzKlhH-vy=w260",
+            price: "Rs.150 "
         },
-        "EARPHONE R15": {
-            name: "EARPHONE R15",
-            img: "https://lh5.googleusercontent.com/QDlaqJR-ZU-PZGZ57akJP-O5ub3c0GoDkeJ8qHEpUkWSTVFBqkMzOYuA8YwKMUFnuRBgHAASkhuVXyzOulOSqQMHyxppQnwiEVKGRU5gdynf_tLunQv6DU2BK5Lr=w260",
-            price: "Rs. ",
+        "EARPHONE MODEL A-3":{
+            name: "EARPHONE MODEL A-3",
+            img: "https://lh4.googleusercontent.com/t6f4V064Z9h1rkoW7Hp8tE2RG5fb69R9Owdo-2yZhvbGM4hAZV-S0LCA29FmQc5mYNiPKcDOYOj08RB5bqFctTFL6ad3p-Jors1ZVthkkZ3xOw2M5yxvgy8U8atp=w260",
+            price: "Rs. 150 "
         },
-        "EARPHONE R32": {
-            name: "EARPHONE R32",
-            img: "https://lh4.googleusercontent.com/ivZj5wXFFD4Dn4wFSdbqjkM0Xzm4x1IZRU22cEknNLCYGsC6AAsMFtvt0yr3gXED1ZgTzj1DNIRG8cOxYIRa22er2_5r7kzjWQsL5ZgcLwq77G_OetwUl-9FGwkv=w260",
-            price: "Rs. ",
+        " Charger":{
+            name: "Charger",
+            img: "https://lh4.googleusercontent.com/8QtwIF7UrSCGMjbYKXMigYqiObsuML6JJxMkp4H-7ixm4FmGYaHivUuk4mbHTGHB_wy-uA5Z-h0lrNkR8pkd3aBJapdY5jJYi0-Ds_DNdiyOsEGm0vlL-BUCs0vn=w260",
+            price: "Rs.300"
         },
-        "EARPHONE X-6": {
-            name: "EARPHONE X-6",
-            img: "https://lh5.googleusercontent.com/zqRkPehJjiwQCDRQ3o9K_8KqnplhY06qOt3CB_tL263yYCRixJkjVb1F4CBIvFiXyDZ0oxy32IGKw8tl-aolFPXLHWG05DJJEU6sfAZjNE9XwJeAUUddT1N2tVXk=w260",
-            price: "Rs.",
+        " Motorola Charger":{
+            name: "Motorola Charger",
+            img: "https://lh5.googleusercontent.com/YKSMPXc-a4uu3hGtIWzRR1virHXdZylNyyMWON_Z0OycdVhTyVn-6DofcYy_OUnoZrXNsgPGJ13XWD_Fi6YgWH2-gKzhgjAHfvosw-5iwe5GvxfMNBNJEezZbmQJ=w260",
+            price: "Rs.250"
         },
+        "Motorola Handfree":{
+            name: "Motorola handfree",
+            image: "https://lh6.googleusercontent.com/G9atJjMy5rRW_hW-ru-cgxPvRsTfypyCBVVLK_LKPC0Yk-hdrhwgGRqcRQuVKASJeDwcjLf09iDkLOs9G608CO_rEnldNWMtw3FfDqvtBeFZeHB5H78sSQ3xhOMe=w260",
+        price: "Rs. 250"
+        },
+        
+       
         "TRIPOD 3110": {
             name: "TRIPOD 3110",
             img: "https://lh4.googleusercontent.com/GgW4Bpp899lk-Cw2pvTnrXmndWvlHPlpo8O_MUwdN8OXA_-cGvfTc5YKmYAUYO5Tp50HJZpk8oHLMm3YOa3_pZf339qdMEAZwoxSRAZZHVKpgy2u4uvMlyNGM8Ev=w260",
@@ -85,15 +92,20 @@ export default {
             img: "https://lh4.googleusercontent.com/aO5jNWpmnEKfEQ_dg7n19T5cwx-TX612CeiRHPDHzlKycAQFpy9b8vTWO-CBZpCetxvBxz6UsaTTyI_oMshyif2-wYLrTpTiatU3kD5Dlf8Vh8CYIZuQgCpIvBY7=w260",
             price: "Rs. ",
         },
-        "BackCovers": {
-            name: "Mobile Back Covers ",
+        "PowerBank 6000mah ": {
+            name: "PowerBank ",
             img: "https://lh3.googleusercontent.com/CutQNy0LeF88LJHt27BtF074IEym28U_j-2G6cMr8HVxNoTh3aEDLt_u6Wf0sTaugeTPKrE6FDP9aql8fS4rrJYKvX4h5dmolSm6vuT3qjfWYeJWWwsX4cPS0vPDRmhqpFYTfBnZzkOx4dI",
             price: "Rs. ",
         },
         "PowerBank-samsung": {
-            name: "PowerBank-samsung 6000mah ",
+            name: "PowerBank-samsung 10000mah ",
             img: "https://lh4.googleusercontent.com/ZkfZpHoyEAh8mRJi66PhpccBz9DJuCcrEl4P0VYXLWONYji7AjVurskP_J-z6G9etNJ2QkjyV7p5B7nQId2Cmq_pF7SbbbiqfAr2Qu2Ul5FnzowZ1qDxtwEPhSla=w260",
-            price: "Rs.1200",
+            price: "Rs.1400",
+        },
+        "PowerBank-ROMOSS": {
+            name: "PowerBank-ROMOSS ",
+            img: "https://lh4.googleusercontent.com/jaLpXBB1ef8B80k0onDICfAgqx--u7g1C0EFJhhbHKpmj8EoZ8MC8YGfm6cvPzTBewG3oG1JptCpix70Vm7VT8cYleLQBFB4f6Qsa4TdSJxDuKHbb90yYTooEASC=w260",
+            price: "Rs.1100",
         }
     }
 }
