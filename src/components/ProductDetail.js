@@ -67,7 +67,7 @@ function ProductDetail() {
         <div className="productNotFount"><h1>Product Not Found</h1></div>
         )
     }
-    const { name, img,  } = shoe
+    const { name, img, price } = shoe
     return (
         <>
             <Link to="/">Back</Link>
@@ -78,8 +78,8 @@ function ProductDetail() {
                     
                     <Typography  variant="h4" component="h4">
                    <Grid container  >
-                   {/* <Grid item xs={12} sm={6} ><h1>{price}</h1></Grid> */}
-                   <Grid item xs={12} sm={12} > <Button   variant="contained" style={{float:"right" , top:"2px"}} color="primary"><a href="https://forms.gle/34WaiLVTMPRh8px3A" ><ShoppingCartIcon className={classes.navIcon} /></a></Button></Grid>
+                   <Grid item xs={12} sm={6} ><h1>{price}</h1></Grid>
+                   <Grid item xs={12} sm={12} > <Button   variant="contained" style={{float:"right" , top:"2px"}} color="primary"><a href="https://forms.gle/SaanfkJy5U3A1eyKA" ><ShoppingCartIcon className={classes.navIcon} /></a></Button></Grid>
                     </Grid>
                     </Typography>
                     
