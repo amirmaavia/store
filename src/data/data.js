@@ -15,11 +15,6 @@ export default {
             img: "https://lh5.googleusercontent.com/QFQsLX_Qhd0kYUU-lOeEDzHaoNljK1xUN4IIhq8PdgcUf0GIaXQswMME7PA0GbMRMOgdqWuc-aPirbvODRjGOEjo5jxESaIOi0MPCAmjhNw8A_F0qQVelIIClv4L=w260",
             price: "Rs. 300"
         },
-        "EARPHONE":{
-            name: "EARPHONE",
-            img: "https://lh3.googleusercontent.com/8Vrscxv8qeOfpZCP7B72xf0aHt0KeU0GQ-Hg2EwJXGs7GgbiOYay4df-PR0-K5Kr9Vk6-UXWe5fBkvapjlU25KAtuAndtYf0r_UD5XG3LZo_ttHQ6ZRReBLdF7Da=w260",
-            price: "Rs. 150 "
-        },
         "EARPHONE MODEL A-2":{
             name: "EARPHONE MODEL A-2",
             img: "https://lh5.googleusercontent.com/sd8XCkeCHFnL-iLxyyMWIw32QpYadyWRRS9GKZd6cGe7XfvB7MKEyVbmAdskS7PYhFb_2AQcypMIutGl8ZE33I3cQhDCZz3UUHuTR1pNppu_-upriuKYzKlhH-vy=w260",
