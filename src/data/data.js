@@ -47,6 +47,31 @@ export default {
             img: "https://lh4.googleusercontent.com/GgW4Bpp899lk-Cw2pvTnrXmndWvlHPlpo8O_MUwdN8OXA_-cGvfTc5YKmYAUYO5Tp50HJZpk8oHLMm3YOa3_pZf339qdMEAZwoxSRAZZHVKpgy2u4uvMlyNGM8Ev=w260",
             price: "Rs. ",
         },
+        "Wireless Charger Pad":{
+            name: "Wireless Charger pad",
+            img: "https://lh4.googleusercontent.com/o-ze_3hN6jrsB2KCVpNRM2fLVpJIvBAakeNhLxHqYVseXOaEnKV8qOHseZDYFqvjdPscZLlI1lEFSbltGIZenOI9A8q_rzFAaJjZS_txy4Igckd5hJ9vlGvs2yJH=w260",
+            price: "2500"
+        },
+        "Wireless Sports Earphones":{
+            name: "Wireless Charger Earphones",
+            img: "https://lh3.googleusercontent.com/1a_Gijqc6gNKC89qcRXyfVmN99EdGY9XESOT0shjk4a7hdMLxo_B7py5NQ0X7zYZOGIl97W2c5khdMJtficbzLyyC4DNvp9O3LkkNEVQDaFWh9sOiV1uRALeuZRR=w260",
+            price: "1800"
+        },
+        "Original Car Charger":{
+            name: "Original Car Charger",
+            img: "https://lh4.googleusercontent.com/6GecF_NLXPEPQgROvE49lPFQd2SZoeSRgFxXrieN0YMcT5R6_-W_MDY-_bwFlR_sHbOKkrpfk769LP8Jg2YBvHXSbSPeaFKEw5tu_FTXJi7aguSbCnTTOLOc6J2M=w260",
+            price: "350"
+        },
+        "Realme Ear Phones":{
+            name:"Realme Ear Phones",
+            img: "https://lh6.googleusercontent.com/9rAIt3qWUqcEvVq8zlxFi5mEFJ8gQscF1DxXWvVC3eOtleBkbVPkmbAiaPXktZ0UuRKE-kP290govdLwH2SEURHQ8Gc8dzK8nrxOhWIBGssGwih3AVYEryS9l17h=w260",
+            price: "2500"
+        },
+        "TWS-4 Sports Earphones":{
+            name: "TWS-4 Sports Earphones",
+            img: "https://lh3.googleusercontent.com/mFEEljhp894s1oNDhgWi0gGOj6nBr7GRbLNe2j2MNvLI_sckHLun38CNfFS341bytBdQhOmh8-xLT1KTTeHRHglYmQY-xyQ7Lrfic2kyRcRBP5gs8BvTQUwsBS4_=w260",
+            price: "1400"
+        },
         "WIRELESS HEADPHONES P47": {
             name: "Wireless HEADPHONES P47",
             img: "https://lh6.googleusercontent.com/LY56nZeO7qs7YY5YZWZrsEh1dC4cjA_tiUA0pRhGUnM_ubwv7az34SCqFMiQAhjaAbXkv2OtMshLwsIu846WcfKcJkXVsE93WK7qN2zBpngc52_E4tmch6nAAchB=w260",
@@ -60,17 +85,17 @@ export default {
         "POWER BANK AA04": {
             name: "POWER BANK AA04",
             img: "https://lh5.googleusercontent.com/KqF5NWN6sRtETqK9QYqd0skQDIwdbfFbf75w04AFEECtfN8fdxUH_gLQJh_AkTmgb8DPBn7rLfnfwFrAlbN0WUPsAyQuzVoU4VsuAcKD6yNnv4MdihycRJ48poBy=w260",
-            price: "Rs. ",
+            price: "Rs. 1900 ",
         },
         "POWER BANK Y12": {
             name: "POWER BANK Y12",
             img: "https://lh3.googleusercontent.com/BPv8QJcA73f7HdEwNaAlawOTHzu-TxPh9x78ClC9glLW5tqiZN1u0HWeYa2KVxjeBXRZY-3QVN5DhymlsCkWoA6N7KDprW67D74zIblHD6-Xdyr5BRKtEiwyrQWe=w260",
-            price: "Rs. ",
+            price: "Rs. 1800 ",
         },
         "POWER BANK 119": {
             name: "POWER BANK 119",
             img: "https://lh5.googleusercontent.com/nyQ6pWBeGqBIP-5RHeAAIRQLIbbFx2gAxHWTFQzykQKBc21YWmg2_6aWtBgOwcm7b4vAZxK07D_GdFeTZb7cGN_jJfNuu1t6ioL6CiUsy5y1CEqPYI80GK-9lCQh=w260",
-            price: "Rs. ",
+            price: "Rs. 1400",
         },
         "BLUETOOTH SPEAKER ZM-1": {
             name: "BLUETOOTH SPEAKER ZM-1",
