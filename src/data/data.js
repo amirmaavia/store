@@ -72,6 +72,46 @@ export default {
             img: "https://lh3.googleusercontent.com/mFEEljhp894s1oNDhgWi0gGOj6nBr7GRbLNe2j2MNvLI_sckHLun38CNfFS341bytBdQhOmh8-xLT1KTTeHRHglYmQY-xyQ7Lrfic2kyRcRBP5gs8BvTQUwsBS4_=w260",
             price: "1400"
         },
+        "Mini Tripod Yunteng YT-228":{
+            name: "Mini Tripod Yunteng YT-228",
+            img: "https://lh5.googleusercontent.com/9-hfsNrAjnQBemZbOovn4fm84EEdJ-45INAy0qkivj_kSmnUd-Qz2Dh8M-opIP7jgkSSUSDKjC0TnbR-q3l-5BW5JIRtAwiGHFKfnrcrXgyjpXzYvO7-ORYPnwxr=w260",
+            price: "200"
+        },
+        "LED Ring fill light 16 cm":{
+            name: "LED Ring fill light 16 cm",
+            img: "https://lh4.googleusercontent.com/wayqMaWUJ49Vn9qwDJ9tru4tt6t7bYftKIrB71e3xKr2IAamYLi5rRUCd8AaPn7ESgUAmBx0r6A6vJ0j89MJuV5MhEfvUumKmm8O_R85YvsIaX5veEOtPzBgvC77=w260",
+            price: "700"
+        },
+        "LED Ring fill light 26 cm":{
+            name: "LED Ring fill light 26 cm",
+            img: "https://lh4.googleusercontent.com/QmxbtIR8TRREoPwobSAtUhSIwnilW0s_xHFQvTZwx3lpoUlzMks8lV2zE5lLuiRl0ViM5eq1-opqTy4RQm6kyjLPQgpxE3PUc5zxwT6cJBk4yDGrjik7rgKsdC-M=w260",
+            price: "1300"
+        },
+        "VR Shinecon Virtual Beauty Glasses":{
+            name: "VR Shinecon Virtual Beauty Glasses",
+            img: "https://lh5.googleusercontent.com/659O6GWcc7abRQZp2D7JwH-PjWvdgcktCD0vmxvcUIoqEb99V8YgiEpqE_Hz-aWIpLgqfb4-81EuhLIVB76xAx_xaumdhfUJ-4CiqP-yJSffOmcY4e-W7fRkuj9_=w260",
+            price: "1050"
+        },
+        "VR Box Virtual Beauty Glasses":{
+            name: "VR Box Virtual Beauty Glasses",
+            img: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fd11zer3aoz69xt.cloudfront.net%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2F1%2Fimage%2F1200x%2F9df78eab33525d08d6e5fb8d27136e95%2Ff%2Fa%2Ffashion_mart_vr_box_virtual_reality_3d_glasses_-_black_and_white1_1.jpg&imgrefurl=https%3A%2F%2Fwww.ishopping.pk%2Ffashion-mart-vr-box-virtual-reality-3d-glasses-black-white-price-in-pakistan.html&tbnid=ocg9TsBKAxJe3M&vet=12ahUKEwjRh53njOvrAhUH_xoKHRqCBFAQMygBegUIARC7AQ..i&docid=6eLc0cMsvY1KkM&w=1200&h=1200&q=VR%20Box%20Virtual%20Beauty%20Glasses&ved=2ahUKEwjRh53njOvrAhUH_xoKHRqCBFAQMygBegUIARC7AQ",
+            price: "1000"
+        },
+        "BL-R2 Wireless EarPhones":{
+            name: "BL-R2 Wireless EarPhones",
+            img: "https://lh5.googleusercontent.com/YPJMbOxH3CMb0KvuNXm1d_h8LLYqA0CFilHewCFOZ5xQvDhj4hM19bEhYOgX7ShK5y1mgLgd1nYCVDvl_IsfZW5w1RJpTC2h6WksMF9drwJfpTRaMqwgaqgW4hgS=w260",
+            price: "900"
+        },
+        "LRB-21 Wireless EarPhones":{
+            name: "LRB-21 Wireless EarPhones",
+            img: "https://lh3.googleusercontent.com/rOUGKn9Grnz8KNyy20DOGFiT0OXiWplYzM6GzXJ1XQ08XQXujaLQeGgAPIvCNe8Zbw5DTBL6EVLUPeriq1kiEWVqpenyTeLTcfp8nRp1JiYhldud3JNfOaEt0siw=w260",
+            price: "850"
+        },
+        "LRB-32 Wireless EarPhones":{
+            name: "LRB-32 Wireless EarPhones",
+            img: "https://lh3.googleusercontent.com/Ygo_WCxRJwoK1vWzpd8pjqJOFVtf6n15CwPdsdKcHt6t_fgQkQGPnWUdlQ8ielLFeGsThsPO0S0qd9oQiqd93gZaLjaEeVlTeqlngiOitHw-pc1bO1s2b95jSANZ=w260",
+            price: "850"
+        },
         "WIRELESS HEADPHONES P47": {
             name: "Wireless HEADPHONES P47",
             img: "https://lh6.googleusercontent.com/LY56nZeO7qs7YY5YZWZrsEh1dC4cjA_tiUA0pRhGUnM_ubwv7az34SCqFMiQAhjaAbXkv2OtMshLwsIu846WcfKcJkXVsE93WK7qN2zBpngc52_E4tmch6nAAchB=w260",
