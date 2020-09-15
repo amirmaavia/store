@@ -33,7 +33,7 @@ export default {
         " Motorola Charger":{
             name: "Motorola Charger",
             img: "https://lh5.googleusercontent.com/YKSMPXc-a4uu3hGtIWzRR1virHXdZylNyyMWON_Z0OycdVhTyVn-6DofcYy_OUnoZrXNsgPGJ13XWD_Fi6YgWH2-gKzhgjAHfvosw-5iwe5GvxfMNBNJEezZbmQJ=w260",
-            price: "Rs.250"
+            price: "Rs.350"
         },
         "Motorola Handfree":{
             name: "Motorola handfree",
