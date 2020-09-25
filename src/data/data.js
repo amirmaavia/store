@@ -40,6 +40,59 @@ export default {
             img: "https://lh6.googleusercontent.com/G9atJjMy5rRW_hW-ru-cgxPvRsTfypyCBVVLK_LKPC0Yk-hdrhwgGRqcRQuVKASJeDwcjLf09iDkLOs9G608CO_rEnldNWMtw3FfDqvtBeFZeHB5H78sSQ3xhOMe=w260",
         price: "Rs. 250"
         },
+        "Levono livepods":{
+            name: "Levono livepods",
+            img: "https://lh3.googleusercontent.com/MAXLwjSiPZ0akjJ1br8Nob4KRONcQBPT2V0Q_EB2yQtHsbV-ZDVIuYXO-VxaObqioWNZk8lUe5Ls5MtgTcLZBdEp_SpIodec2o7R6i3Sr9N_gS_uivxfw0RZJZ2Y=w260",
+        price: "Rs. 2800"
+        },
+        "Samsung buds":{
+            name: "Samsung buds",
+            img: "https://lh5.googleusercontent.com/OKgUa3ztazGazeh1y6pMFS_ingJGgNtwKXG4M0B-O0GshDkT5MvjxikSTXMTDtJPy07C-FBAHJ3T655C6WvXOWvaNz6vmgfSW-T16eHofWt_legrKXsCmJ_FQXSU=w260",
+        price: "Rs. 2800"
+        },
+        "Mir 4 earBuds Basic":{
+            name: "Mir 4 earBuds Basic",
+            img: "https://lh6.googleusercontent.com/1H0Vj74uKEdty1GCtBa7tWH7Ro3eWXgLdqWPaRvjkCaCkrAB_oTKqyR0yvXjaR0ZCux6BaWYbzWYzVd-s66lGzvCcP5HqDGgZvEWFz8H-GzDmImRe0m-RF8Bzcs7=w260",
+        price: "Rs. 2300"
+        },
+        "Mir 3 earBuds Basic":{
+            name: "Mir 3 earBuds Basic",
+            img: "https://lh5.googleusercontent.com/TEd7Dw0dYhei15qUwURxq_L2j38BsUAqPiKj8KTCYyehLqNh4U9Zk_X7zWwRtcGe9tb-cwjDg8ULlZ5eF0vSE_ahzq0H5W5H0VHVkFMqTMMROlliOsyeRaClpLwk=w260",
+        price: "Rs. 2300"
+        },
+        "Mir 6 earBuds Basic":{
+            name: "Mir 6 earBuds Basic",
+            img: "https://lh5.googleusercontent.com/grBoJtI5U7NBrpQigpXLV7He3ufkZXxhiblRAjSltefpDKDCFFi2DQaDmaj3G05Fb1PsV2NPbofmqd4t7-0DeuhHFDzTXEOXz2bBAjYE_9UkdAnlYxG26DWoeOly=w260",
+        price: "Rs. 2300"
+        },
+        "Realme EarBuds":{
+            name: "Realme EarBuds",
+            img: "https://lh3.googleusercontent.com/B-ulqVkEM0hhBEBh4HDBpSql-Hl3Xy4qNDXYr1fNiuJBvwrV9dNu36CoF0Lkf31pOInVeLGY8fUmhXR2beaLpvTx8YecAc5bcGTe43WKvKhZIZvAfSgIbngkQEPk=w260",
+        price: "Rs. 2500"
+        },
+        "Wireless Speaker":{
+            name: "Wireless Speaker",
+            img: "https://lh3.googleusercontent.com/dIHukOyhKVqSSICnG2zlBgTlVrkuqzZfSpj1GMnaMcFI1X_ii4jBCRjQD17akJIL6FUCFMqDhYRXSRgP6i7MwvO1LnYaikSlATlZesFcSBpKXc9tUzeX0dOeaFPI=w260",
+        price: "Rs. 550"
+        },
+        "Wireless Speaker 3":{
+            name: "Wireless Speaker 3",
+            img: "https://lh6.googleusercontent.com/jABE-OWJmOr0h76HUEuEc9R9DWcOC1sqycVE_CjGKjwpjApVMAY-eSBYaMzO-rI1ODJC-eE4MgvXs_mENaHAIkpeZvmd3L55fepcrBweWtj7LdiPQdRm4ogTnqxQ=w260",
+        price: "Rs. 75"
+        },
+        "Wireless Speaker 4":{
+            name: "Wireless Speaker 4",
+            img: "https://lh4.googleusercontent.com/kmuXdiqN-TUcIsWlKAW6X70cIyi3uJnPP3kdq2sQR3GTvmD9qFH14jxwk5zhLwYhKYmVw0jrM_7QoCL8aANnV8E1IvmYAnXl9A5GrLQVOiv_sG8595OlpS88X0xz=w260",
+        price: "Rs. 950"
+        },
+        "Portable Loud Speaker":{
+            name: "Portable Loud Speaker",
+            img: "https://lh4.googleusercontent.com/Boi7wc0IUXTZK9A25YgYnqlt4vDrRBc4KM_h_fJ4dCB3iw6Q7ziejCqycXioQe_v5PcHr-4XjGYReoS8UwHnuwsutm2JcOBT32wnizZNg41kDMqs6zorIPByaLQO=w260",
+        price: "Rs. 700"
+        },
+
+
+        
         
        
         "TRIPOD 3110": {
@@ -115,7 +168,7 @@ export default {
         "WIRELESS HEADPHONES P47": {
             name: "Wireless HEADPHONES P47",
             img: "https://lh6.googleusercontent.com/LY56nZeO7qs7YY5YZWZrsEh1dC4cjA_tiUA0pRhGUnM_ubwv7az34SCqFMiQAhjaAbXkv2OtMshLwsIu846WcfKcJkXVsE93WK7qN2zBpngc52_E4tmch6nAAchB=w260",
-            price: "Rs. ",
+            price: "Rs. 850 ",
         },
         "WIRElESS MIC AND SPEAKER": {
             name: "WIRElESS MIC AND SPEAKER",
