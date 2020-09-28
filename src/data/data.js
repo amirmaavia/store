@@ -78,7 +78,7 @@ export default {
         "Wireless Speaker 3":{
             name: "Wireless Speaker 3",
             img: "https://lh6.googleusercontent.com/jABE-OWJmOr0h76HUEuEc9R9DWcOC1sqycVE_CjGKjwpjApVMAY-eSBYaMzO-rI1ODJC-eE4MgvXs_mENaHAIkpeZvmd3L55fepcrBweWtj7LdiPQdRm4ogTnqxQ=w260",
-        price: "Rs. 75"
+        price: "Rs. 750"
         },
         "Wireless Speaker 4":{
             name: "Wireless Speaker 4",
