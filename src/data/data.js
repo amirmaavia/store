@@ -85,6 +85,29 @@ export default {
             img: "https://lh4.googleusercontent.com/kmuXdiqN-TUcIsWlKAW6X70cIyi3uJnPP3kdq2sQR3GTvmD9qFH14jxwk5zhLwYhKYmVw0jrM_7QoCL8aANnV8E1IvmYAnXl9A5GrLQVOiv_sG8595OlpS88X0xz=w260",
         price: "Rs. 950"
         },
+        "Wireless HeadPhone GALAXY":{
+            name: "Wireless HeadPhone GALAXY",
+            img: "https://lh6.googleusercontent.com/xc87E1X0x5Xnh8PlyDnCHzrt6bTi8lvcTd3yBoOpbKIiclURVwBwzqxMxiRvMl7MCronDoqWC6n62SX_7E-WOLxCNMMBl0l0fqMs0-YQvl8zNmPWZI-dLdb74wf8=w260",
+        price: "Rs. 1400"
+        },
+        "Wireless HeadPhone JBL":{
+            name: "Wireless HeadPhone JBL",
+            img: "https://lh3.googleusercontent.com/fMlVPnf9yebBHpTdjrdNuX4FDqy0vF7h8BZRjKPQE1AeFW3C7qNP2WTubc_38iM0ImXXbInjctDIJrmrT8qNwNBuJq_OnPShGREBsGmRbd6fpV65OSSGxRw_4RmD=w260",
+        price: "Rs. 1300"
+        },
+        "Wireless Headset Bluetooth":{
+            name: "Wireless Headset Bluetooth",
+            img: "https://lh5.googleusercontent.com/imYIVM2JvMDtdDshcB2eGKnbGvHpQWDK25F7RH94xZoBjIs-Skwe3qjwQqUUNJ10H8F0cAMDkCFQs_DbLmNwk3U1ickRl4Vj3ftwlFZVgX7Bd8WYxe-GgfvImO-5=w260",
+        price: "Rs. 350"
+        },
+        "T10-Power Charger":{
+            name: "T10-Power Charger",
+            img: "https://lh4.googleusercontent.com/Zzifgl0AntZZbyRYQauBil9YA1wUNRjzsK4FySNfDSvQzTWDsaV5Wb7ZtCU48DTbxJSwBrh2N0RQwkAV1fsfun8sZk7-vyd07Nz4F-BPLsL50nMUxnvzGmDmzN2P=w260",
+        price: "Rs. 180"
+        },
+        
+
+
         "Portable Loud Speaker":{
             name: "Portable Loud Speaker",
             img: "https://lh4.googleusercontent.com/Boi7wc0IUXTZK9A25YgYnqlt4vDrRBc4KM_h_fJ4dCB3iw6Q7ziejCqycXioQe_v5PcHr-4XjGYReoS8UwHnuwsutm2JcOBT32wnizZNg41kDMqs6zorIPByaLQO=w260",
