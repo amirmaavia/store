@@ -113,11 +113,6 @@ export default {
             img: "https://lh4.googleusercontent.com/Boi7wc0IUXTZK9A25YgYnqlt4vDrRBc4KM_h_fJ4dCB3iw6Q7ziejCqycXioQe_v5PcHr-4XjGYReoS8UwHnuwsutm2JcOBT32wnizZNg41kDMqs6zorIPByaLQO=w260",
         price: "Rs. 700"
         },
-
-
-        
-        
-       
         "TRIPOD 3110": {
             name: "TRIPOD 3110",
             img: "https://lh4.googleusercontent.com/GgW4Bpp899lk-Cw2pvTnrXmndWvlHPlpo8O_MUwdN8OXA_-cGvfTc5YKmYAUYO5Tp50HJZpk8oHLMm3YOa3_pZf339qdMEAZwoxSRAZZHVKpgy2u4uvMlyNGM8Ev=w260",
